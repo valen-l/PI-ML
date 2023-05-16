@@ -1,6 +1,8 @@
 # Proyecto Individual -ML
+<p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
 
-
+ # <h1 align=center> **PROYECTO INDIVIDUAL Nº1** </h1>
+ 
 ## Tematica ##
  
  Soy una Data Scientist que trabaja en una start-up que provee servicios de agregación de plataformas de streaming. Voy a crear mi primer modelo de ML que soluciona un problema de negocio: un sistema de recomendación que aún no ha sido puesto en marcha!
@@ -14,6 +16,7 @@ Al ir a los datos evidencio que la madurez en los datos es nula; por lo que debo
 - [ ]          Main.py - donde se encuentras las funciones de la API
  - [x] Carpeta Datasets_iniciales - las bases de datos que recibí para trabajar.
  - [ ]         Archivos CSV - archivo entregados por la compañia
+ - [ ]         https://drive.google.com/file/d/1Rp7SNuoRnmdoQMa5LWXuK4i7W1ILblYb/view dataset de peliculas que nos da la compañia
 - [x] Carpeta Transformaciones - dentro de encuentan todo los recursos necesarios para la API de consultas.
 - [ ]          ETL.ipynb - paso a paso del ETL.
 - [ ]          EDA.ipynb - archivo de analisis de datos.
