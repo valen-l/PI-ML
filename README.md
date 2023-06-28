@@ -7,7 +7,7 @@
  
  Soy una Data Scientist que trabaja en una start-up que provee servicios de agregación de plataformas de streaming. Voy a crear mi primer modelo de ML que soluciona un problema de negocio: un sistema de recomendación que aún no ha sido puesto en marcha!
 
-Al ir a los datos evidencio que la madurez en los datos es nula; por lo que debo empezar desde 0 haciendo el trabajo de Data Engineer para podercomensar con mi primer modelo de ML con poco tiempo para trabajar ya que la entrega es... !LA PROXIMA SEMANA¡
+Al ir a los datos evidencio que la madurez en los datos es nula; por lo que debo empezar desde 0 haciendo el trabajo de Data Engineer para poder comenzar con mi primer modelo de ML con poco tiempo para trabajar ya que la entrega es... !LA PROXIMA SEMANA¡
 
   MENU: 
 
